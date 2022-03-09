@@ -1,2 +1,2 @@
-# Tri-tue-nhan-tao-Bao
+# Tri-tue-nhan-tao
 Pacman Projects
